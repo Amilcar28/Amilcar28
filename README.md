@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amílcar José</h1>
 <h3 align="center">A passionate Python applied in Meteorology and Climate Angola</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amilcar28&label=Profile%20views&color=0e75b6&style=flat" alt="amilcar28" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/amilcar_joose28" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/amilcar_joose28?logo=twitter&style=for-the-badge" alt="https://twitter.com/amilcar_joose28" /></a> </p>
+<p align="left"> <a href="https://twitter.com/amilcar_joose28" target="blank"><img src="https://img.shields.io/twitter/follow/amilcar_joose28?logo=twitter&style=for-the-badge" alt="amilcar_joose28" /></a> </p>
 
 - 🌱 I’m currently learning **Python and MySQL**
 
@@ -17,11 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/amilcar_joose28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/amilcar_joose28" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/am%c3%adlcar-ernesto-ant%c3%b3nio-jos%c3%a9-1a8015143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/am%c3%adlcar-ernesto-ant%c3%b3nio-jos%c3%a9-1a8015143/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/amlcarernestoajos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/amlcarernestoajos" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/amilcarjoose/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amilcarjoose/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/amilcar_jose06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amilcar_jose06/" height="30" width="40" /></a>
+<a href="https://twitter.com/amilcar_joose28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amilcar_joose28" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/am%c3%adlcar-ernesto-ant%c3%b3nio-jos%c3%a9-1a8015143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="am%c3%adlcar-ernesto-ant%c3%b3nio-jos%c3%a9-1a8015143/" height="30" width="40" /></a>
+<a href="https://kaggle.com/amlcarernestoajos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amlcarernestoajos" height="30" width="40" /></a>
+<a href="https://fb.com/amilcarjoose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amilcarjoose" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amilcar28&show_icons=true&locale=en" alt="amilcar28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amilcar28&" alt="amilcar28" /></p>
+
