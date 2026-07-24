@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amílcar José</h1>
+<h1 align="center">Hi 👋, I'm Amílcar E.A. José</h1>
 <h3 align="center">A passionate Gis, Data Science, Python applied in Meteorology and Climate </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amilcar28&label=Profile%20views&color=0e75b6&style=flat" alt="amilcar28" /> </p>
